@@ -4,6 +4,7 @@ public class TeslaConcriptDb {
         System.out.println("Hello, Mask!");
         System.out.println("Start");
         System.out.println("Execute start");
+        System.out.println("Distance passage");
 
     }
 }
